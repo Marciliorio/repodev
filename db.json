@@ -1,0 +1,81 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Sabão",
+      "categoria": 1
+    },
+    {
+      "id": 2,
+      "produto": "Amaciante",
+      "categoria": 1
+    },
+    {
+      "id": 3,
+      "produto": "Detergente",
+      "categoria": 1
+    },
+    {
+      "id": 4,
+      "produto": "Desodorante",
+      "categoria": 7
+    },
+    {
+      "id": 5,
+      "produto": "Shampoo",
+      "categoria": 7
+    },
+    {
+      "id": 6,
+      "produto": "Condicionador",
+      "categoria": 7
+    },
+    {
+      "id": 7,
+      "produto": "Sabonete",
+      "categoria": 7
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "Limpeza"
+    },
+    {
+      "id": 2,
+      "categoria": "Alimentos"
+    },
+    {
+      "id": 3,
+      "categoria": "Laticinéos"
+    },
+    {
+      "id": 4,
+      "categoria": "Ração"
+    },
+    {
+      "id": 5,
+      "categoria": "Frios"
+    },
+    {
+      "id": 6,
+      "categoria": "Carnes"
+    },
+    {
+      "id": 7,
+      "categoria": "Cosméticos"
+    },
+    {
+      "categoria": "Ferramentas",
+      "id": 9
+    },
+    {
+      "categoria": "Máquinas",
+      "id": 10
+    },
+    {
+      "categoria": "Peixes",
+      "id": 11
+    }
+  ]
+}
